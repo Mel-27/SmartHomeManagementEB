@@ -5,7 +5,7 @@ namespace SmartHomeManagementEB
 {
     // A hash table built from scratch using separate chaining (each bucket
     // is a linked list of entries). This is the "custom dictionary" the
-    // assignment asks for — it does the same job as Dictionary<TKey,TValue>
+    //  it does the same job as Dictionary<TKey,TValue>
     // but you can see and explain exactly how it works internally.
     public class CustomDictionary<TKey, TValue>
     {

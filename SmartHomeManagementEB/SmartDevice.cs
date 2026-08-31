@@ -3,7 +3,7 @@
 
 namespace SmartHomeManagementEB
 {
-    // The value type stored in the dictionary, keyed by DeviceId.
+    // The value type stored in the dictionary, keyed by DeviceId
     public class SmartDevice
     {
         public string DeviceId { get; set; }
